@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 clap = "2.33.0"
 crossbeam = "0.7.3"
+crossterm = "0.14.2"
