@@ -3,6 +3,13 @@ name = "pipeviewer"
 version = "1.0.0"
 authors = ["Nathan Stocks <nathan.stocks@gmail.com>"]
 edition = "2018"
+description = "Educational version of the pv utility"
+homepage = "https://github.com/cleancut/pipeviewer"
+repository = "https://github.com/cleancut/pipeviewer"
+readme = "README.md"
+keywords = ["educational"]
+categories = ["command-line-utilities"]
+license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
