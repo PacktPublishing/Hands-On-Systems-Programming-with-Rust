@@ -1,5 +1,5 @@
 # Hands-On Systems Programming with Rust [Video]
-This is the code repository for [Hands-On Systems Programming with Rust [Video]]( https://www.packtpub.com/data/mastering-keras-video), published by [Packt](https://www.packtpub.com/?utm_source=github ). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Hands-On Systems Programming with Rust [Video]]( https://www.packtpub.com/programming/hands-on-systems-programming-with-rust-video), published by [Packt](https://www.packtpub.com/?utm_source=github ). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Scripting languages will provide safety, but not concurrency and speed, while traditional systems programming languages such as C and C++ will definitely give you speed and some concurrency, but forget about safety! If you need safety, concurrency, AND speed, then Rust is the only viable option.
 
