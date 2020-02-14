@@ -1,7 +1,7 @@
 # Hands-On Systems Programming with Rust [Video]
 This is the code repository for [Hands-On Systems Programming with Rust [Video]]( https://www.packtpub.com/programming/hands-on-systems-programming-with-rust-video), published by [Packt](https://www.packtpub.com/?utm_source=github ). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-Scripting languages will provide safety, but not concurrency and speed, while traditional systems programming languages such as C and C++ will definitely give you speed and some concurrency, but forget about safety! If you need safety, concurrency, AND speed, then Rust is the only viable option.
+Scripting languages will provide safety, but not concurrency and speed, while traditional systems programming languages such as C and C++ will definitely give you speed and some concurrency, but forget about safety! If you need safety, concurrency, and speed, then Rust is the only viable option.
 
 In this course, you will learn how Rust guarantees memory and thread safety at compile-time, yet uses zero-cost abstractions without the runtime overhead of a garbage collector. You'll learn how to monitor the flow of data through a pipeline by building your own middleware utility. You'll learn how to utilize I/O to interact with the command line, work with standard library mpsc channels to perform data flows, and create an ergonomic timer for your project. You'll apply key concepts in every section while creating your own middleware tool in Rust along the way.
 
