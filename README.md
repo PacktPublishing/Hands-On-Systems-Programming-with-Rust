@@ -27,17 +27,17 @@ If you are already a software developer and want to learn systems programming in
 This course will greatly appeal to intermediate Linux and general Unix programmers, network programmers, and C / C++ programmers interested in learning different approaches to concurrency. Prior knowledge of basic programming concepts is required. A working knowledge of Rust is assumed.
 
 ### Technical Requirements <br/>
-####Minimum Hardware Requirements<br/>
+#### Minimum Hardware Requirements<br/>
 For successful completion of this course, students will require computer systems with at least the following:<br/>
 OS: macOS, Linux, or Windows<br/>
 Memory: >= 4GB RAM<br/>
 Storage: >= 1GB<br/>
-####Recommended Hardware Requirements<br/>
+#### Recommended Hardware Requirements<br/>
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:<br/>
 OS: macOS, Linux, or Windows<br/>
 Memory: >= 16GB RAM<br/>
 Storage: >= 2GB<br/>
-####Software Requirements<br/>
+#### Software Requirements<br/>
 Rust, latest stable version<br/>
 Your favourite editor or IDE with a Rust plugin installed<br/>
 <br/><br/>
