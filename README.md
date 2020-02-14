@@ -40,7 +40,7 @@ Storage: >= 2GB<br/>
 #### Software Requirements<br/>
 Rust, latest stable version<br/>
 Your favourite editor or IDE with a Rust plugin installed<br/>
-<br/><br/>
+<br/>
 ## Related Products
 * [Mastering GitLab [Video]](https://www.packtpub.com/networking-and-servers/mastering-gitlab-video?utm_source=github&utm_medium=repository&utm_campaign=9781789537642)
 
@@ -48,7 +48,7 @@ Your favourite editor or IDE with a Rust plugin installed<br/>
 
 * [Azure Cognitive Services for Developers [Video]](https://www.packtpub.com/application-development/azure-cognitive-services-developers-video)
 
-Author can be contacted via contact details on his website [agileperception.com].
+### Author can be contacted via contact details on his website [agileperception.com].
 
 [pv]: http://www.ivarch.com/programs/pv.shtml
 [agileperception.com]: https://agileperception.com
