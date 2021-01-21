@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-systems-programming-with-rust-video/9781838822132)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Hands-On Systems Programming with Rust [Video]
 This is the code repository for [Hands-On Systems Programming with Rust [Video]]( https://www.packtpub.com/programming/hands-on-systems-programming-with-rust-video), published by [Packt](https://www.packtpub.com/?utm_source=github ). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
